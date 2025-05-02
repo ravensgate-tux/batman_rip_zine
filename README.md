@@ -35,3 +35,8 @@
 
 各章では、フェアユースの範囲でバットマンのビジュアルも挿入しつつ、
 魔術的プロセスと象徴構造を視覚的にも明示する構成を予定しています。
+
+---
+
+© 2025 知られざる呪術師（Le Sorcier Inconnu）  
+本ドキュメントは [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja) に基づき公開されています。
