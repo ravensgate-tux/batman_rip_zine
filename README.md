@@ -4,6 +4,8 @@
   <img src="BATMAN_RIP.jpg" width="400">
 </div>
 
+---
+
 本Zineは、これまでに公開した2つのZine――
 『POP MAGIC!』における「アビス（深淵）」、
 『現代シャーマニズムの技法』における「降下」――
