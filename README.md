@@ -1,6 +1,5 @@
-<div align="center">
-  # グラント・モリスン『BATMAN R.I.P.』で読み解く<br>アビス（深淵）と降下の魔術Zine
-</div>
+# グラント・モリスン『BATMAN R.I.P.』で読み解く<br>アビス（深淵）と降下の魔術Zine
+
 <div align="center">
   <img src="BATMAN_RIP.jpg" width="400">
 </div>
