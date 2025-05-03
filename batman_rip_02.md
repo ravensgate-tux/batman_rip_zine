@@ -1,7 +1,9 @@
-## 2. 『現代シャーマニズムの技法 第1巻 (Modern Shamanism vol.1)』
+## 2. 『現代シャーマニズムの技法 第1巻 (Modern Shamanism vol.1)』を読む
 まず『現代シャーマニズムの技法 第1巻 (Modern Shamanism vol.1)』の中で書かれていた「降下」を見てみよう。このように書かれていた。
 
-👉[『現代シャーマニズムの技法 第1巻 (Modern Shamanism vol.1)』](https://github.com/ravensgate-tux/hine_modern_shamanism/blob/main/README.md)---
+👉[『現代シャーマニズムの技法 第1巻 (Modern Shamanism vol.1)』](https://github.com/ravensgate-tux/hine_modern_shamanism/blob/main/README.md)
+
+---
 
 ### 🇯🇵 日本語訳　 — 降下
 
