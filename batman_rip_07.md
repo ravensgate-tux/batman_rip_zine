@@ -1,5 +1,4 @@
-## 補遺：背景と補助資料
-
+7. タルパとしてのバットマイト（Bat-Mite）
 
 <div align="center">
  <img src="tougel_02.jpg" width="600">
