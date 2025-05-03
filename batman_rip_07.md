@@ -1,4 +1,4 @@
-7. タルパとしてのバットマイト（Bat-Mite）
+## 7. タルパとしてのバットマイト（Bat-Mite）
 
 <div align="center">
  <img src="tougel_02.jpg" width="600">
