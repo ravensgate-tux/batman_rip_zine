@@ -44,7 +44,7 @@
 
 ---
 
-## 🇯🇵 解説
+## 🇯🇵 解説──バットマンはシャーマンなのか？
 
 <div align="center">
  <img src="black_glove_0002.jpg" width="500">
