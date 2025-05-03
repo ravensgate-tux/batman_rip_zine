@@ -36,6 +36,7 @@
 7. 象徴の再起動と“物語”としての再構築
 8. 神話としてのバットマン／ジョーカーの構造
 
+[参考文献解説：「The Dark Knight of the Soul」](refs/dark_knight_of_the_soul_summary.md)
 ---
 
 各章では、フェアユースの範囲でバットマンのビジュアルも挿入しつつ、
