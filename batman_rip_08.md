@@ -2,6 +2,8 @@
 
 ---
 
+## 論文「The Dark Knight of the Soul」
+
 - [The Dark Knight of the Soul](The_Dark_Knight_of_the_Soul_Death_as_In.pdf)
 
 以下は、論文「The Dark Knight of the Soul: Death as Initiation」の要約である。
