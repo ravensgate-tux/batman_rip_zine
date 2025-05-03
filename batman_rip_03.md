@@ -34,14 +34,14 @@
 精神崩壊寸前のブルースは、ジョーカーと対峙する。ジョーカーは彼の精神の限界を試す存在として、象徴的に立ちはだかる。
 
 <div align="center">
- <img src="batman_story_0005.jpg" width="400">
+ <img src="batman_story_0005.jpg" width="500">
 </div>
 
 **6. ブラックグローブとの決着**<br>
 ズー・イン・アールの人格が限界を迎える中で、ブルースは徐々に元の記憶と人格を取り戻す。ブラックグローブの本拠地に突入し、組織を打ち倒す。
 
 <div align="center">
- <img src="batman_story_0006.jpg" width="400">
+ <img src="batman_story_0006.jpg" width="500">
 </div>
 
 **7. バットマンとしての帰還**<br>
