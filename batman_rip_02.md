@@ -86,7 +86,7 @@
 ---
 
 <div align="center">
- <img src="black_glove_0001.jpg" width="500">
+ <img src="black_glove_0001.jpg" width="600">
 </div>
 
 ---
