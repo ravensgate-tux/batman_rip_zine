@@ -2,6 +2,7 @@
 
 まず『POP MAGIC!』の中で書かれていた「深淵（アビス）』を見てみよう。このように書かれていた。
 
+[『POP MAGIC!』](https://github.com/ravensgate-tux/pop_magic_annotation/blob/main/README.md)
 ---
 
 ### 🇯🇵 日本語訳　 — 深淵（アビス）
