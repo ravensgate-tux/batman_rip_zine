@@ -87,5 +87,13 @@
 
 ---
 
+次の文章は、これである。
+
+>だからこそ、「死ぬ前に死ぬ」という儀式── すなわち深淵の探査は、魔術の道における大きな試練のひとつである。
+
+**<解説>**
+
+---
+
 © 2025 知られざる呪術師（Le Sorcier Inconnu）  
 本ドキュメントは [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja) に基づき公開されています。
