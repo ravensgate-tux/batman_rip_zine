@@ -19,7 +19,7 @@ Zur-en-Arrh は合理性から切り離された人格であり、緊急時に�
 
 ## 参考文系：
 
-[参考文献解説：「The Dark Knight of the Soul」](The_Dark_Knight_of_the_Soul_Death_as_In)
+[参考文献解説：「The Dark Knight of the Soul」](The_Dark_Knight_of_the_Soul_Death_as_In.pdf)
 
 ---
 
