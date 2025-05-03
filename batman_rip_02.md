@@ -43,7 +43,7 @@
 ## 🇯🇵 解説
 
 <div align="center">
- <img src="black_glove_002.jpg" width="500">
+ <img src="black_glove_0002.jpg" width="500">
 </div>
 
 この長文を踏まえた上での結論は──バットマンは「シャーマン」としての条件を満たしていると考えることができる。ただし、それは伝統的なシャーマンではなく、都市神話的・象徴的なシャーマンであり、イニシエーション（通過儀礼）を生きる存在としてのシャーマンである。
@@ -86,7 +86,7 @@
 ---
 
 <div align="center">
- <img src="black_glove_001.jpg" width="500">
+ <img src="black_glove_0001.jpg" width="500">
 </div>
 
 ---
