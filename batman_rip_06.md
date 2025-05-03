@@ -2,7 +2,7 @@
 
 
 <div align="center">
- <img src="bat-radia.jpg" width="500">
+ <img src="bat-radia.png" width="600">
 </div>
 
 ブルース・ウェインの人格が完全に崩壊したとき、表層人格──すなわち「バットマン」は沈黙する。ここで起動するのが、あらかじめ設定された緊急時人格ズー・イン・アール（Zur-En-Arrh）である。
