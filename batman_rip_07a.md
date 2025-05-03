@@ -1,4 +1,15 @@
 ## はじめに
+
+
+<div align="center">
+ <img src="Bat-Mite_0001.jpg" width="500">
+</div>
+
+<div align="center">
+ <img src="Bat-Mite_0001.jpg" width="500">
+</div>
+
+
 - 『POP MAGIC!』『現代シャーマニズム』で語られた「深淵」「降下」の補完
 - 本Zineの目的＝物語を通じて“深淵”を可視化すること
 
