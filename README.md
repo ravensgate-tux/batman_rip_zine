@@ -57,7 +57,7 @@
 [『The Black Glove』参考文献解説](batman_black_glove_summary.md)
 
 ---
-メモ
+### メモ
 
 なぜジョーカー＝コロンゾンなのか？
 1. アビスの守護者＝深淵の道化
