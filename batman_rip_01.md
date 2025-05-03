@@ -1,6 +1,6 @@
 ## 1. 『POP MAGIC!』の「深淵」を読む──バットマンは魔術師だった？
 
-まず『POP MAGIC!』の中で書かれていた「深淵（アビス）」を見てみよう。このように書かれていた。
+まず『POP MAGIC!』の中で書かれていた「深淵（アビス）」を見てみよう。
 
 👉[『POP MAGIC!』](https://github.com/ravensgate-tux/pop_magic_annotation/blob/main/README.md)
 
