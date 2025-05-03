@@ -48,8 +48,8 @@
 ### [7. バックアップOSとしての人格](batman_rip_07.md)
 - 緊急起動用バックアップ人格「ズー・イン・スール人格」
 
-### [8. バットマイト（Bat-Mite）](batman_rip_07a.md)
-- タルパとしてのバットマイト（Bat-Mite）
+### [8. タルパとしてのバットマイト（Bat-Mite）](batman_rip_07a.md)
+- 五次元とは空想の世界
   
 ### [9. 参考文献（The Dark Knight of the Soul）](batman_rip_08.md)
 
