@@ -1,76 +1,21 @@
 
-# 🐘　Ganesha IT Project Talisman Ritual (English Protocol)
+# “The Dark Knight of the Soul: Death as Initiatory Ordeal in Grant Morrison’s Batman R.I.P.”
 
-This repository documents a structured magical ritual designed to support the successful acquisition of an AI-related IT project. The ritual is dedicated to Ganesha, Remover of Obstacles, and integrates a layered system of symbolic actions, visualized layout, and clear intention.
-
----
-
-## ✨ Overview
-- **Language**: English
-- **Format**: Fixed form, repeatable, clear symbolic roles
-- **Tools**: Ganesha statue, candles, incense, coin, specific tarot cards, mooncake (for offering)
-- **Focus**: Practical manifestation through layered magical execution
-
----
-
-## 📊 Ritual Layout
-An invoking triangle tarot layout is used, as shown below:
-
-**Layout Diagram:**
-
- <img src="invoking-layout.jpg" width="300">
-
-**Interpretation:**
-1. **The Magician** — The practitioner and their skillset
-2. **The Fool** — Entering the unknown / brave leap
-3. **The Chariot** — Drive, momentum, execution
-4. **The Sun** — Desired outcome / success
-
-<div style="display: flex; gap: 50px;">
-  <img src="ganesha_it_rituaL_1.jpg" width="300">
-  <img src="ganesha_it_ritual_2.jpg" width="300">
-</div>
+Joel Bordeaux (2016)
+この論文では、グラント・モリスンによる『BATMAN R.I.P.』を、チベット仏教（ゾクチェン）と西洋儀式魔術の双方を通じて読み解いている。
+論文の中心的な論点は、ブルース・ウェイン（バットマン）が物語の中で経験する**「人格の崩壊と再統合」**を、「深淵の通過」や「死と再誕の儀式」として捉える視点にある。
+特に以下の点が興味深い：
+ナンダ・パルバットでのthögal（トゥゲル）修行：感覚遮断と死の模擬体験を通じて、Zur-en-Arrhという「再起動人格」が生まれる。
+Zur-en-Arrh は合理性から切り離された人格であり、緊急時に発動するOSのような役割を持つ。
+これはケイオスマジック的な魔術的構築物と重なり、ピーター・キャロルの「CD」やクロウリーの「コロンゾン」体験に近似。
+ブルースの復活と再誕は、「イニシエーション（儀式的通過儀礼）」の完了を意味する。
+この論文は、スーパーヒーロー物語と魔術実践の交差点に光を当てており、本Zineの考察と深く呼応する内容となっている。
 
 ---
 
-## 🏛 Ritual Process Summary
-- Chant "Om Gam Ganapataye Namaha" x3
-- Speak the set prayer (included in protocol)
-- Intone "IAOM"
-- Repeat Ganesha mantra x3 again
+## 参考文系：
 
----
-
-## ☕ Post-Success Offering
-Upon success, offer a mooncake at the altar and log the result with a photo. This ritual may then be considered validated.
-
-
-<div style="display: flex; gap: 50px;">
-  <img src="ganesha_it_rituaL_3.jpg" width="300">
-  <img src="ganesha_it_ritual_4.jpg" width="300">
-</div>
-
----
-
-## 🔗 Files Included
-- `ganesha_it_talisman.md` — Full ritual documentation (English)
-- `invoking-layout.jpg` — Visual guide to tarot layout used
-- `ganesha_it_ritual_1.jpg` — Ganesha picture
-- `ganesya_it_ritual_2.jpg` — Tarot Cards
-- `ganesha_it_ritual_3.jpg` — Mooncake picture 1
-- `ganesya_it_ritual_4.jpg` — Mooncake picture 2
-
----
-
-## 🐌 License & Sharing
-This protocol is part of the **Open Source Witchcraft** initiative. You are free to remix, adapt, and log your own versions. Attribution encouraged.
-
----
-
-**Created by:** *Le Sorcier Inconnu* (The Unknown Sorcerer)  
-**Location:** Ganesha Temple, Ravensgate
-
-"May clarity meet action. May symbols become pathways."
+[参考文献解説：「The Dark Knight of the Soul」](refs/dark_knight_of_the_soul_summary.md)
 
 ---
 
