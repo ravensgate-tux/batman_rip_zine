@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
- <img src="Bat-Mite_0001.jpg" width="500">
+ <img src="Bat-Mite_0002.jpg" width="500">
 </div>
 
 
