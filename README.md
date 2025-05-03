@@ -48,7 +48,7 @@
 ### [7. バックアップOSとしての人格](batman_rip_07.md)
 - 五次元とは空想の世界
 
-### [8. 参考文献](batman_rip_08.md)
+### [8. 参考文献（The Dark Knight of the Soul）](batman_rip_08.md)
 
 ---
 
