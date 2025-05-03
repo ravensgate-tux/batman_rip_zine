@@ -38,7 +38,6 @@
 
 
 [参考文献解説：「The Dark Knight of the Soul」](dark_knight_of_the_soul_summary.md)
-[参考文献：「The Dark Knight of the Soul」](The_Dark_Knight_of_the_Soul_Death_as_In.pdf)
 
 ---
 
