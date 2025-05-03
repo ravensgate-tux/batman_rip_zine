@@ -27,7 +27,7 @@
 
 ## 目次
 
-### [1. はじめに](batman_rip_01.md)
+### [1. 『POP MAGIC!』の「深淵」を読む──バットマンは魔術師だった？](batman_rip_01.md)
 - 『POP MAGIC!』のなかの「深淵（アビス）」とは何だったのか？
 
 ### [2. 『BATMAN R.I.P.』の概要](batman_rip_02.md)
