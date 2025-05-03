@@ -86,7 +86,7 @@
 死の際には自我の崩壊は誰にでも訪れる。西洋には死ぬ前に死の準備をするような行為は稀だが、ブルース・ウィルス＝バットマンはこの修行を行っている。
 
 <div align="center">
- <img src="tougel_01.jpg" width="500">
+ <img src="tougel_03.jpg" width="500">
 </div>
 
 ---
