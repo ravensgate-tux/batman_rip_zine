@@ -51,7 +51,7 @@
 ### [8. タルパとしてのバットマイト（Bat-Mite）](batman_rip_07a.md)
 - 五次元とは空想の世界
   
-### [9. 参考文献（The Dark Knight of the Soul）](batman_rip_08.md)
+### [9. 研究論文（The Dark Knight of the Soul）](batman_rip_08.md)
 
 ---
 
