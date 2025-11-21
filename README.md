@@ -24,8 +24,6 @@ This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
 
 この作品はグラント・モリスンによるバットマン・サーガ3部作の第2部にあたる。第1部では、巨大犯罪組織の首領の娘、タリアとの間に生まれた息子、ダミアンが登場する。そして第2部の本作では、ブルース・ウェイン（バットマン）を暗殺するための組織、ブラックグローブが登場する。その戦いの中で、ブルース・ウェインは肉体的ばかりでなく心理的にも追い込まれ、精神の崩壊を迎える。しかしブルース・ウェインの精神が消えた肉体は、ズー・イン・アールのバットマンだと名乗って別人格で蘇り、ブラックグローブへの反撃を開始する。これには、かつてブルース・ウェインが修行を行っていたチベット仏教ゾクチェンのトゥゲルの儀式が関係していた。ブルース・ウェインは、49日間洞窟にこもり4分間死亡していたのだ。
 
-</div>
-
 ---
 
 ## 目次
@@ -65,7 +63,8 @@ DCコミックスで『バットマン』『ドゥーム・パトロール』『
 
 🧛[“Selected works”](https://www.grantmorrison.com/gmselects)
 
----
+</div>
+
 ---
 
 *© 2025. Ritual text prepared for private devotional use. You may include this file in your personal grimoire or GitHub repository with attribution.*
