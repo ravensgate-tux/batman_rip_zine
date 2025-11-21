@@ -67,6 +67,8 @@ DCコミックスで『バットマン』『ドゥーム・パトロール』『
 
 ---
 
+<div align="left">
+
 *© 2025. Ritual text prepared for private devotional use. You may include this file in your personal grimoire or GitHub repository with attribution.*
 
 ---
@@ -76,3 +78,5 @@ DCコミックスで『バットマン』『ドゥーム・パトロール』『
 ---
 © 2025 知られざる呪術師（Le Sorcier Inconnu）  
 本ドキュメントは [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja) に基づき公開されています。
+
+</div>
