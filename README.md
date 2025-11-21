@@ -12,10 +12,11 @@
 
 **by 知られざる呪術師（*Le Sorcier Inconnu*）**
 
-ディスコーディアン暦3191年 深淵を旅するラクダの祝日 第26火曜日<br>
-――摩天楼の頂上に、コウモリ🦇が舞い降りる日
 
-</div>
+<div align="right">
+<img src="ksc5.png" width="200"><br>
+This page is maintained by ravensgate (KSC) a.k.a. Le Sorcier Inconnu.</vr><br>
+著者のKSCこと「知られざる呪術師」は<br>ドロレス・アッシュクロフト=ノーウィッキから直接第３位界のイニシエーションを受け<br>ダイアン・フォーチュンから続く法脈を受け継いでいる。</div>
 
 ---
 
