@@ -72,6 +72,10 @@ Zineは具体的にフィクション（『BATMAN R.I.P.』）を素材とし、
 
 ---
 
+こちらもご覧ください➡️[📚 グラント・モリスン『BATMAN R.I.P.』から読み解く「深淵」と「降下」Zine](https://github.com/ravensgate-tux/batman_rip_zine/blob/main/README.md)
+
+---
+
 こちらもご覧ください➡️[ディスコーディアン魔術アーカイブ](https://github.com/ravensgate-tux/Discordianism_ksc/blob/main/README.md)
 
 ---
