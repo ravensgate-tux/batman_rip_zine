@@ -19,7 +19,9 @@
  <img src="Bat-Mite_0002.jpg" width="500">
 </div>
 
-- 🕶 [BATMAN R.I.P. (グラント・モリスン)](https://github.com/ravensgate-tux/batman_rip_zine/blob/main/README.md)
+<br>
+ 
+- ➡️ [BATMAN R.I.P. (グラント・モリスン)のトップページに戻る](https://github.com/ravensgate-tux/batman_rip_zine/blob/main/README.md)
 
 ---
 
