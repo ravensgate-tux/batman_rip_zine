@@ -19,6 +19,8 @@
  <img src="Bat-Mite_0002.jpg" width="500">
 </div>
 
+- 🕶 [BATMAN R.I.P. (グラント・モリスン)](https://github.com/ravensgate-tux/batman_rip_zine/blob/main/README.md)
+
 ---
 
 © 2025 知られざる呪術師（Le Sorcier Inconnu）  
